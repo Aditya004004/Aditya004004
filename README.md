@@ -65,11 +65,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya004004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya004004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aditya004004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
