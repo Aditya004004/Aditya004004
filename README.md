@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20👋,%20I'm%20Aditya&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Hi%20👋,%20I'm%20Aditya&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
@@ -68,15 +68,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aditya004004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya004004&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%"/>
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
