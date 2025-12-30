@@ -68,11 +68,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aditya004004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya004004&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
 
----
 
 ## 🏆 GitHub Achievements
 
